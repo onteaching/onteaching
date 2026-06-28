@@ -1,4 +1,4 @@
-**Teaching is a work of the heart. ❤️**
+**Teaching is a work of heart. ❤️**
 
 I enjoy sharing knowledge, creating helpful resources, and helping others learn, build, and grow. 🌱
 
