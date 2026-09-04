@@ -5,7 +5,7 @@ I enjoy sharing knowledge, creating helpful resources, and helping others learn,
 
 Teaching and Learning Resources:
 
-[online-psql)(https://github.com/onapplications/online-psql)
+[online-psql](https://github.com/onapplications/online-psql)
   
 [gradescope-autograder-maker](https://github.com/onapplications/gradescope-autograder-maker)
 
